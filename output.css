@@ -10,8 +10,20 @@
   /* 2 */
   border-color: #E5E7EB;
   /* 2 */
+  
 }
 
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(242, 206, 133);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(187, 134, 28);
+}
 ::before,
 ::after {
   --tw-content: '';
