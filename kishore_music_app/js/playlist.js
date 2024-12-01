@@ -36,5 +36,11 @@ let songs = [
     artist: "S. P. Balasubrahmanyam",
     img: "spb",
     audio: "kathal_rojave"
+  },
+  {
+    name: "Anarkali",
+    artist: "S. P. Balasubrahmanyam",
+    img: "spb",
+    audio: "anarkali"
   }
 ]
