@@ -38,6 +38,36 @@ let songs = [
     audio: "kathal_rojave"
   },
   {
+    name: "Rangi Avanodu",
+    artist: "S. P. Balasubrahmanyam",
+    img: "spb",
+    audio: "Rangi_avanodu"
+  },
+  {
+    name: "muthal_malai_hariharan",
+    artist: "S. P. Balasubrahmanyam",
+    img: "spb",
+    audio: "muthal_malai_hariharan"
+  },
+  {
+    name: "thanga_thamarai_magale",
+    artist: "S. P. Balasubrahmanyam",
+    img: "spb",
+    audio: "thanga_thamarai_magale"
+  },
+  {
+    name: "chinna_chinna_aasai",
+    artist: "S. P. Balasubrahmanyam",
+    img: "spb",
+    audio: "chinna_chinna_aasai"
+  },
+  {
+    name: "Rangi Avanodu",
+    artist: "S. P. Balasubrahmanyam",
+    img: "spb",
+    audio: "Rangi_avanodu"
+  },
+  {
     name: "Anarkali",
     artist: "S. P. Balasubrahmanyam",
     img: "spb",
